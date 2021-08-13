@@ -2,7 +2,7 @@
 The source codes of Java textbook
 
 
-This repository contains the source codes of Textbook of Java programming course.
+This repository contains the source codes of Textbook attached to the Java programming course.
 
 
 Chapter 2: Language Foundation
