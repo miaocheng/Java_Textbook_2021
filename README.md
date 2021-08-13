@@ -15,7 +15,7 @@ Chapter 5: Methods
 
 Chapter 6: Arrays
 
-Chapter 7: Object and Classes
+Chapter 7: Objects and Classes
 
 Chapter 8: Inheritance and Polymorphism
 
